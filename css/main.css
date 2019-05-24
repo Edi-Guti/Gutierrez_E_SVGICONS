@@ -53,14 +53,23 @@ div img {
 }
 
 #vector {
-	width: 1050px;
+
 }
 
-#image-container img {
-	width: 100px;
-	height: 100px;
-	margin-top: 250px;
-	margin-left: 80px;
+.image-container {
 	display: flex;
+	flex-direction: row;
+	flex-wrap:wrap;
 }
+
+.image-container div {
+	display:flex;
+	flex-direction: column;
+	flex: 1;
+	padding-left: 30px;
+}
+
+
+
+
 
