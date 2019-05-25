@@ -53,20 +53,27 @@ div img {
 }
 
 #vector {
-
+	
 }
 
 .image-container {
 	display: flex;
 	flex-direction: row;
-	flex-wrap:wrap;
+	flex-wrap: wrap;
 }
 
 .image-container div {
-	display:flex;
+	display: flex;
 	flex-direction: column;
 	flex: 1;
-	padding-left: 30px;
+	padding-left: 0;
+}
+
+button {
+	width: 100px;
+	height: 30px;
+	font-family: "pt sans caption";
+	color: #BF9999;
 }
 
 

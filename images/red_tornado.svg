@@ -5,6 +5,8 @@
 <style type="text/css">
 	.st0{fill:#FFCF3D;stroke:#E6001C;stroke-width:10;stroke-miterlimit:10;}
 	.st1{fill:#E6001C;}
+
+	.st1:hover{fill:#ffffff}
 </style>
 <g>
 	<circle class="st0" cx="103.86" cy="103.86" r="98.86"/>

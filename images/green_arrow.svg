@@ -7,6 +7,9 @@
 	.st1{fill:#02572B;stroke:#02572B;stroke-width:14;stroke-miterlimit:10;}
 	.st2{fill:#A3CE57;}
 	.st3{fill:#FFFFFF;}
+
+	.st2:hover{fill:#ffffff}
+	.st0:hover{stroke:#ffffff}
 </style>
 <g>
 	<g>

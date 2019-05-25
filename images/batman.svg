@@ -6,6 +6,8 @@
 	.st0{fill:#5A5B5E;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 	.st1{fill:#FFF300;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 	.st2{stroke:#000000;stroke-miterlimit:10;}
+
+	.st0:hover{fill:#FFFFFF}
 </style>
 <g id="Circle">
 	<circle class="st0" cx="101.36" cy="101.36" r="98.86"/>
