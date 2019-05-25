@@ -52,8 +52,14 @@ div img {
 	text-underline-position: under;
 }
 
+p {
+	font-family: "pt sans caption";
+	font-size: 50px;
+	float: right;
+}
+
 #vector {
-	
+	margin-top: 150px;
 }
 
 .image-container {

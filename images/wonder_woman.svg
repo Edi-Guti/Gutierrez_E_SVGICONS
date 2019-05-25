@@ -8,6 +8,11 @@
 	.st2{fill:#FFF300;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
 
+	@media screen and (max-width: 200px){
+		
+	.st0{display: none;}
+	}
+
 	.st2:hover{fill:#ffffff}
 </style>
 <g>

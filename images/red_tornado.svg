@@ -6,6 +6,11 @@
 	.st0{fill:#FFCF3D;stroke:#E6001C;stroke-width:10;stroke-miterlimit:10;}
 	.st1{fill:#E6001C;}
 
+	@media screen and (max-width: 200px){
+		
+	.st0{display: none;}
+	}
+
 	.st1:hover{fill:#ffffff}
 </style>
 <g>

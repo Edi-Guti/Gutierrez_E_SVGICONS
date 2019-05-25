@@ -8,6 +8,11 @@
 	.st2{fill:#A3CE57;}
 	.st3{fill:#FFFFFF;}
 
+	@media screen and (max-width: 200px){
+		
+	.st0{display: none;}
+	}
+
 	.st2:hover{fill:#ffffff}
 	.st0:hover{stroke:#ffffff}
 </style>
