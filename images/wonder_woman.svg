@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Wonder_Woman" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+<svg version="1.1" id="Wonder_Woman" class="clicked" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 202.73 202.73" style="enable-background:new 0 0 202.73 202.73;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#E6001C;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 	.st1{fill:#2499DA;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 	.st2{fill:#FFF300;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+
+	@media screen and (max-width: 200px){
+		
+	.st0{display: none;}
+	}
+
+	.st2:hover{fill:#ffffff}
 </style>
 <g>
 	<circle class="st0" cx="101.36" cy="101.36" r="98.86"/>
